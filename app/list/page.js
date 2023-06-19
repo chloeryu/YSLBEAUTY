@@ -2,7 +2,7 @@
 export default function List() {
   return (
     <div>
-      <h2>베스트셀러</h2>
+      <h4 className="title">베스트셀러</h4>
       <div className="lip">
         <h4>베르니 아 레브르 바이닐 크림틴트 49.000</h4>
       </div>
